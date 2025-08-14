@@ -1,7 +1,7 @@
 body {
   padding: 0;
   margin: 0;
-  display: flex;
+  display: grid;
   justify-content: space-evenly;
 }
 .container {
@@ -43,4 +43,12 @@ ul li {
   justify-content: space-between;
   align-items: center;
   border: 1px solid #ccc;
+}
+.alisher{
+  width: 100px;
+  height: 30px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 3px 6px blue;
+  font-size: 24px;
 }
