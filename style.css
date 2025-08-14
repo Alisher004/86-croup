@@ -44,6 +44,13 @@ ul li {
   align-items: center;
   border: 1px solid #ccc;
 }
+#Alym{
+   width: 110px;
+   height: 40px;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px;
 .alisher{
   width: 100px;
   height: 30px;
